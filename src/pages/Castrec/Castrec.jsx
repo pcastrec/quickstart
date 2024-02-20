@@ -1,5 +1,5 @@
 export const Castrec = () => {
     return (
-        <h1>Castrec Pierre</h1>
+        <h1>Castrex Pierre</h1>
     )
 }
